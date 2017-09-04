@@ -1,4 +1,4 @@
-name := """play-scala-starter-example"""
+name := """gotandamb-slack-invite"""
 
 version := "1.0-SNAPSHOT"
 
