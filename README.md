@@ -1,4 +1,5 @@
 # Gotanda.mobile Slack invitation
+[![CircleCI](https://circleci.com/gh/gotandamb/gotandamb-slack-invite/tree/master.svg?style=shield)](https://circleci.com/gh/gotandamb/gotandamb-slack-invite/tree/master)
 
 ## Requirements
 
